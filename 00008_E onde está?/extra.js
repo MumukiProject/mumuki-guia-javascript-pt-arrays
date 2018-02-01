@@ -1,0 +1,1 @@
+var diasDeTrabalho = ["segunda", "terça", "quarta", "quinta", "sexta"]
