@@ -7,8 +7,9 @@ let seriesFavoritasDoHector = ["The Walking Dead", "Black Mirror"]
 
 Como você pode ver, para representar um conjunto de strings, colocamos todos esses strings que nos interessam, entre colchetes (`[` e `]`) separados por vírgulas. Fácil, não acha?
 
-Experimente as seguintes consultas no console:
-seriesFavoritasDaAna
-seriesFavoritasDoHector
-["olá","mundo!"]
-["olá","olá"]
+> Experimente as seguintes consultas no console:
+
+> * `seriesFavoritasDaAna`
+> * `seriesFavoritasDoHector`
+> * `["olá","mundo!"]`
+> * `["olá","olá"]`
