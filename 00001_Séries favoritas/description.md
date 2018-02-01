@@ -12,4 +12,3 @@ seriesFavoritasDaAna
 seriesFavoritasDoHector
 ["olá","mundo!"]
 ["olá","olá"]
-
