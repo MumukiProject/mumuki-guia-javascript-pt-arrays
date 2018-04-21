@@ -1,7 +1,7 @@
 Como acabamos de te _spoilear_, existe um operador para descobrir qual elemento tem em uma determinada posição:
 
 ``` javascript
-ム mesesDolAno[0]
+ム mesesDoAno[0]
 "janeiro"
 ム ["esse", "cachorro", "tem", "o", "rabo", "cabeludo"][1]
 "cachorro"
